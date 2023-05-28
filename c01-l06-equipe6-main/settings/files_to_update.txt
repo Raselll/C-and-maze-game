@@ -1,5 +1,0 @@
-settings/files_to_update.txt
-settings/variables.txt
-
-README.md
-
