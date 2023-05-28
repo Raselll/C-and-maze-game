@@ -1,0 +1,11 @@
+settings/files_to_update.txt
+settings/variables.txt
+
+README.md
+
+Exercises/bibliotheque_cours/bibliotheque_cours.cpp
+Exercises/bibliotheque_cours/verification_allocation.cpp
+Exercises/Designer.hpp
+Exercises/Jeu.hpp
+Exercices/ListeDesigners.hpp
+Exercices/ListeJeux.hpp
