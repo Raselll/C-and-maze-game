@@ -1,0 +1,7 @@
+16.50/20
+-0.50 help ne contient pas de paramètre
+-1 retard
+-0.25 code commenté
+-0.5 méthode validerEntree
+-0.25 nom de fichier message
+-1 entete incomplete"
